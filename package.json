@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kasimnadim6/page-transition/issues"
   },
-  "homepage": "https://github.com/kasimnadim6/page-transition#readme"
+  "homepage": "https://github.com/kasimnadim6/page-transition#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
